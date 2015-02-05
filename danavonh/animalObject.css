@@ -4,7 +4,8 @@ header {
   color: #FFE6E6;
   background: #4C0000;
   font-size: 32pt;
-  font-family: "Helvetica Neue"
+  font-family: "Helvetica Neue";
+  text-align: center;
 }
 
 .link {
@@ -13,7 +14,8 @@ header {
 
 p {
   font-size: 14pt;
-  border: groove;
+  padding-left: 20;
+  padding-right: 20;
 }
 
 #firstParagraph {
